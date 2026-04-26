@@ -1,0 +1,206 @@
+{
+  "intro": {
+    "title": "Contributions",
+    "description": "Contributions span architecture leadership, standards participation, mentoring, and service to the wider technology ecosystem. This section highlights communities, recognition, and contribution areas that sit alongside delivery leadership."
+  },
+  "profile": {
+    "title": "Profile & Expertise",
+    "description": "Expertise in aligning business objectives with robust technology strategies and delivery excellence across financial services, cloud modernization, and secure platform architecture.",
+    "linkedin_url": "https://www.linkedin.com/in/govindarajp/",
+    "skills": [
+      "AI Security & Responsible AI",
+      "Application Development & DevSecOps",
+      "Cloud Migration & Modernization",
+      "Cloud Security",
+      "Cloud-Native Architecture",
+      "Collaboration Services",
+      "Contact Center Technologies",
+      "Cryptography",
+      "Cybersecurity",
+      "Data / AI Platforms",
+      "Data Architecture & Governance",
+      "Developer Experience",
+      "Distributed Computing",
+      "Edge Computing",
+      "Enterprise Architecture",
+      "Event-Driven Architecture",
+      "Financial Services Technology",
+      "FinOps",
+      "Governance, Risk & Compliance",
+      "Hybrid Cloud Architecture",
+      "Identity & Access Management",
+      "Integration Architecture",
+      "Lead Management",
+      "Mainframe",
+      "NIST / CIS / PCI-DSS / GDPR",
+      "Parallel processing",
+      "Payment Security & PCI Compliance",
+      "Platform Engineering",
+      "Product & Software Engineering",
+      "RISC computing",
+      "Risk Management",
+      "Sales and Servicing Technologies",
+      "Security Architecture & Zero Trust",
+      "Target Architecture & Roadmapping",
+      "Technology Strategy & Execution"
+    ]
+  },
+  "ecosystem": {
+    "title": "Global Ecosystem Contributions",
+    "items": [
+      "IEEE Senior Member / Mentor",
+      "Cloud Security Alliance",
+      "Agentic AI Foundation",
+      "OpenID Foundation",
+      "World Digital Tech Academy",
+      "Mentors in Tech (MinT)"
+    ]
+  },
+  "categories": [
+    {
+      "title": "Standards & Communities",
+      "description": "Active participation across standards bodies and professional forums that shape secure, interoperable, and future-ready technology ecosystems."
+    },
+    {
+      "title": "Mentorship & Enablement",
+      "description": "Ongoing mentorship and enablement across architecture maturity, security thinking, and long-term technology career development."
+    },
+    {
+      "title": "Recognition & Service",
+      "description": "Recognition for sustained service, leadership, and contributions to professional communities and broader technology advancement."
+    },
+    {
+      "title": "Publications & Media",
+      "description": "A growing contribution hub for talks, published material, and open technical assets that complement ecosystem participation and architecture leadership."
+    }
+  ],
+  "references": {
+    "title": "Contribution References",
+    "description": "Curated references from publication centers, artifact pages, documents, videos, and code repositories. Last updated: 2026-04-26.",
+    "groups": [
+      {
+        "title": "Publications",
+        "items": [
+          {
+            "label": "World Digital Technology Academy - Publications",
+            "url": "https://www.wdtacademy.org/en/Publication",
+            "type": "listing"
+          },
+          {
+            "label": "Single AI Agent Runtime Security Testing Standards",
+            "url": "https://www.wdtacademy.org/Upfile/File/2025-12-04/e15c0b40-850c-49e7-be04-f1876fdc4203..pdf",
+            "type": "publication"
+          },
+          {
+            "label": "Large Language Model Security Requirements for Supply Chain",
+            "url": "https://www.wdtacademy.org/Upfile/File/2025-12-04/9d3100e3-a617-462e-a745-684b1c83ff49..pdf",
+            "type": "publication"
+          },
+          {
+            "label": "Large Language Model Security Testing Method",
+            "url": "https://www.wdtacademy.org/Upfile/File/2025-12-04/b36e1f3e-e53d-4f40-b817-682f0931e6ba..pdf",
+            "type": "publication"
+          },
+          {
+            "label": "Generative AI Application Security Testing and Validation Standard",
+            "url": "https://www.wdtacademy.org/en/Publication",
+            "type": "publication"
+          },
+          {
+            "label": "AI Core Security Responsibilities",
+            "url": "https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-core-security-responsibilities",
+            "type": "artifact_page"
+          },
+          {
+            "label": "AI Risk Management, Governance, and Cultural Aspects",
+            "url": "https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-governance-risk-management-compliance-and-cultural-aspects",
+            "type": "artifact_page"
+          },
+          {
+            "label": "Using AI for Offensive Security",
+            "url": "https://cloudsecurityalliance.org/artifacts/using-ai-for-offensive-security",
+            "type": "artifact_page"
+          },
+          {
+            "label": "Organizational Responsibilities for AI Applications",
+            "url": "https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-ai-tools-and-applications",
+            "type": "artifact_page"
+          },
+          {
+            "label": "Cybersecurity and the Data Lifecycle",
+            "url": "https://cloudsecurityalliance.org/artifacts/cybersecurity-and-the-data-lifecycle",
+            "type": "artifact_page"
+          },
+          {
+            "label": "Agentic AI Red Teaming Guide",
+            "url": "https://cloudsecurityalliance.org/artifacts/agentic-ai-red-teaming-guide",
+            "type": "artifact_page"
+          },
+          {
+            "label": "Agentic AI Identity & Access Management",
+            "url": "https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach",
+            "type": "artifact_page"
+          },
+          {
+            "label": "How Global Payments built a resilient architecture for scale with Cloud SQL",
+            "url": "https://cloud.google.com/blog/topics/financial-services/how-global-payments-built-a-resilient-architecture-for-scale-with-cloud-sql",
+            "type": "article"
+          },
+          {
+            "label": "7CUI Comments Govindaraj Palanisamy Jan 10 2025",
+            "url": "https://csrc.nist.gov/csrc/media/Projects/protecting-controlled-unclassified-information/documents/Call%20for%20comments%20Nov%202024-Jan%202025/7CUI_Comments_Govindaraj_Palanisamy_Jan10_2025.pdf",
+            "type": "pdf"
+          },
+          {
+            "label": "ASC X9 TR-50-2019: Quantum Techniques in Cryptographic Message Syntax",
+            "url": "https://x9.org/wp-content/uploads/2019/03/ASC-X9-TR-50-2019-Quantum-Techniques-in-Cryptographic-Message-Syntax-1.pdf",
+            "type": "publication"
+          }
+        ]
+      },
+      {
+        "title": "Embedded Videos",
+        "items": [
+          {
+            "label": "Trustworthy Agentic Commerce in a Hybrid Ecosystem | FinCloud Summit 2026",
+            "title": "Trustworthy Agentic Commerce in a Hybrid Ecosystem | FinCloud Summit 2026",
+            "url": "https://youtu.be/Syghng6n-L8",
+            "embedUrl": "https://www.youtube.com/embed/Syghng6n-L8",
+            "type": "video"
+          },
+          {
+            "label": "Navigating AI Adoption: Insights from Research to Enterprise Security",
+            "title": "Navigating AI Adoption: Insights from Research to Enterprise Security",
+            "url": "https://www.youtube.com/watch?v=OYh3POaLNmU",
+            "embedUrl": "https://www.youtube.com/embed/OYh3POaLNmU",
+            "type": "video"
+          },
+          {
+            "label": "AI in Financial Services for Defensive Security",
+            "title": "AI in Financial Services for Defensive Security",
+            "url": "https://youtu.be/H9htxSntpHc",
+            "embedUrl": "https://www.youtube.com/embed/H9htxSntpHc",
+            "type": "video"
+          },
+          {
+            "label": "YouTube Video (title pending confirmation)",
+            "title": "YouTube Video (title pending confirmation)",
+            "url": "https://www.youtube.com/watch?v=ccC5Sr7uuLU",
+            "embedUrl": "https://www.youtube.com/embed/ccC5Sr7uuLU",
+            "type": "video"
+          }
+        ]
+      },
+      {
+        "title": "GitHub Repositories",
+        "items": [
+          {
+            "label": "Profile Site Repository (update with exact repo URL)",
+            "url": "https://github.com/",
+            "type": "repo"
+          }
+        ]
+      }
+    ]
+  }
+}

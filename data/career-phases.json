@@ -1,0 +1,58 @@
+[
+  {
+    "period": "1992 - 1999",
+    "role": "Student & Early Learner",
+    "story": "Growing up in India's knitwear capital, Govindaraj's reality shifted in 1992 upon seeing his first computer. While peers focused on traditional trades, he dove into MS-DOS and C programming. Driven by an innate entrepreneurial background, he shifted focus from pure accounting to office automation.",
+    "tech": "MS-DOS, C Programming, Corel Builder, basic Office Automation.",
+    "challenges": "Faced scarce access to hardware and high technical education costs. Overcame this through relentless self-study and maximizing brief periods of computer access.",
+    "skills": [3, 3, 2, 1, 2, 1]
+  },
+  {
+    "period": "1999 - 2002",
+    "role": "EDP Personnel",
+    "story": "First professional IT role in a manufacturing company. Realized quickly that automation wasn't just an IT function, but the lifeblood of business efficiency. Began building early automation systems for inventory management.",
+    "tech": "Novell NetWare 4.x, Windows 95/98/NT, Corel Builder, Oracle Databases.",
+    "challenges": "Lack of prior enterprise hardware exposure. Overcame by hands-on immersion, managing systems while actively learning them and earning a Microsoft MCP.",
+    "skills": [5, 7, 4, 2, 3, 2]
+  },
+  {
+    "period": "2002 - 2006",
+    "role": "IT Services Pro & Consultant",
+    "story": "Transitioned from single-company IT to broader IT services. The early 2000s required relentless adaptation to rapid technological change. Earned an MBA in IT and shifted focus toward Identity & Access Management and web security.",
+    "tech": "Routers, Firewalls, Citrix Metaframe, Wireless Networks, IAM.",
+    "challenges": "Navigating rapid technological evolution. Overcame by pairing hands-on consulting with formal higher education and industry certifications like CISA.",
+    "skills": [7, 4, 6, 4, 5, 3]
+  },
+  {
+    "period": "2006 - 2011",
+    "role": "Head of Systems & Security Specialist",
+    "story": "Recognized that building infrastructure wasn't enough; protecting it was paramount. Led IT transformation in healthcare, then took a lead role at a major IT service provider offering managed security across diverse industries.",
+    "tech": "Secure SDLC, Code Security, DR/BCP, GRC, Managed Security.",
+    "challenges": "Scaling security across varying industry regulations. Overcame by developing standardized, robust Governance, Risk, and Compliance frameworks.",
+    "skills": [8, 5, 8, 6, 7, 4]
+  },
+  {
+    "period": "2011 - 2015",
+    "role": "Security Consultant & PCI QSA",
+    "story": "Moved to the U.S. retail sector, tackling the massive challenge of payment security. Became a specialized PCI QSA, advising major merchants and payment platforms on protecting millions of transactions.",
+    "tech": "Tokenization, POS Encryption, Payment Ecosystems Security.",
+    "challenges": "Securing high-stakes financial data against sophisticated threats. Overcame by mastering complex encryption and tokenization strategies for endpoints.",
+    "skills": [7, 4, 10, 7, 7, 5]
+  },
+  {
+    "period": "2015 - 2023",
+    "role": "Sr. Security & Enterprise Architect",
+    "story": "Noticed a recurring industry flaw: security was often an afterthought. Made a strategic lateral move into Enterprise Architecture at a leading payment acquirer to shift security 'to the left', building it directly into product blueprints.",
+    "tech": "Cloud Security, Modernization Tech, Enterprise Architecture Frameworks.",
+    "challenges": "Overcoming the cultural treatment of security as a reactive patch. Overcame by integrating secure-by-design principles directly into the enterprise architecture process.",
+    "skills": [6, 5, 9, 9, 8, 7]
+  },
+  {
+    "period": "2024 - Present",
+    "role": "Principal Architect",
+    "story": "Currently focusing on the next massive shift: Artificial Intelligence. The reality is, deploying tech isn't enough. I apply a strong product mindset to support robust platform architecture, ensuring systems deliver measurable value. I bridge the gap between cutting-edge AI and strict governance by shaping data to be trustworthy, and I still actively act as an L5 escalation resource to drive modern cloud platform adoption and solve complex infrastructure challenges.",
+    "tech": "Artificial Intelligence, Data Architecture, Modern Cloud Platform Services, Platform Architecture, FinOps.",
+    "challenges": "Preparing massive legacy datasets for modern AI models safely while controlling cloud costs. Overcoming this by architecting new data products with strict governance for trustworthy AI.",
+    "skills": [6, 5, 9, 10, 9, 8]
+  }
+]
