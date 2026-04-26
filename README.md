@@ -6,9 +6,11 @@ GitHub Pages site for Govindaraj Palanisamy's profile and contributions.
 
 - `index.html`: Primary GitHub Pages entry point.
 - `home.html`: Local/deep-link compatible copy of the main page.
+- `assets/css/styles.css`: Shared site styles.
+- `assets/js/app.js`: Shared client-side rendering and chart logic.
+- `assets/images/profile-photo.png`: Profile image shown in the hero section.
 - `data/career-phases.json`: Timeline phases, narratives, and radar chart values.
 - `data/contributions.json`: Profile summary, skills, contributions, references, and embedded videos.
-- `profile-photo.png`: Profile image shown in the hero section.
 
 ## GitHub Pages setup
 
