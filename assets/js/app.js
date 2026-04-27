@@ -1,3 +1,5 @@
+        const DATA_VERSION = '20260426';
+
         let careerData = [];
         let contributionsData = null;
         const baseLabels = [
@@ -98,7 +100,7 @@
 
         async function loadCareerData() {
             try {
-                const response = await fetch('data/career-phases.json');
+                const response = await fetch(`data/career-phases.json?v=${DATA_VERSION}`, { cache: 'no-store' });
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}`);
                 }
@@ -120,7 +122,7 @@
 
         async function loadContributionsData() {
             try {
-                const response = await fetch('data/contributions.json');
+                const response = await fetch(`data/contributions.json?v=${DATA_VERSION}`, { cache: 'no-store' });
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}`);
                 }
