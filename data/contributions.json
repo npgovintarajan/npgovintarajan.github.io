@@ -162,6 +162,13 @@
         "title": "Embedded Videos",
         "items": [
           {
+            "label": "Optimize data cloud fleet management with AI observability agents",
+            "title": "Optimize data cloud fleet management with AI observability agents",
+            "url": "https://www.youtube.com/watch?v=gzZhIHPZYco",
+            "embedUrl": "https://www.youtube.com/embed/gzZhIHPZYco",
+            "type": "video"
+          },
+          {
             "label": "Trustworthy Agentic Commerce in a Hybrid Ecosystem | FinCloud Summit 2026",
             "title": "Trustworthy Agentic Commerce in a Hybrid Ecosystem | FinCloud Summit 2026",
             "url": "https://youtu.be/Syghng6n-L8",
